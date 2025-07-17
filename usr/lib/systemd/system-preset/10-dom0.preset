@@ -1,0 +1,6 @@
+# xen project services
+enable xenstored.service
+enable xenconsoled.service
+enable xendomains.service
+enable xen-init-dom0.service
+enable xen-qemu-dom0-disk-backend.service

@@ -1,0 +1,9 @@
+app-emulation/xen
+app-shells/bash
+sys-apps/systemd
+sys-apps/kbd
+sys-apps/shadow
+sys-apps/coreutils
+sys-apps/pciutils
+net-misc/openssh
+net-wireless/wireless-regdb
