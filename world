@@ -6,4 +6,3 @@ sys-apps/shadow
 sys-apps/coreutils
 sys-apps/pciutils
 net-misc/openssh
-net-wireless/wireless-regdb
